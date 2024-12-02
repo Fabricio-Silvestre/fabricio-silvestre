@@ -44,6 +44,5 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Fabricio-Silvestre/Fabricio-Silvestre/output/snake.svg" alt="Snake animation" />
 
 ###
