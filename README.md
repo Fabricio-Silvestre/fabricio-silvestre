@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">Técnico em informática pela Etec Vasco Antônio Venchiarutti e formado em Gestão da Tecnologia da Informação. Atualmente trabalho como Analista de Suporte na WJTI.<br>Recentemente, devido a um projeto de automação na empresa, me interessei por Python e consequentemente pela área de Programação e Ciência de Dados. Estou sempre estudando e aprimorando meus conhecimentos nessa área e aqui estou postando minha trajetória de estudo com alguns pequenos repositórios.</p>
+<p align="center">Técnico em informática pela Etec Vasco Antônio Venchiarutti e formado em Gestão da Tecnologia da Informação pela Fatec Deputado Ary Fossen. Atualmente trabalho como Analista de Suporte na WJTI - Soluções em Tecnologia.<br>Recentemente, devido a um projeto de automação na empresa, me interessei por Python e consequentemente pela área de Programação e Ciência de Dados. Estou sempre estudando e aprimorando meus conhecimentos nessa área e aqui estou postando minha trajetória de estudo com alguns pequenos repositórios.</p>
 
 ###
 
